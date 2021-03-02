@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# Amazing Redstone Music Fabric
+
+Blue repeater with 1/3/5/7gt delay.
+
+蓝色中继器 延迟1gt 3gt 5gt 7gt.
+
+Canceling the limit of sounds at the same time.
+
+取消发音上限.
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Just put mod jar to your mods directory. 1.16.4+
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+只需要将模组文件复制到mods文件夹下。
